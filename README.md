@@ -2,12 +2,16 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B37DF7&center=true&width=435&lines=Ham's+Git" alt="Typing SVG" /></a>
 </div>
 
+<br>
+
+<div align="center">
+  <p> 끈기와 실행력을 바탕으로 성장하는 Flutter 개발자 노혜민 입니다.</p>
+</div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/dart-20232a.svg?style=for-the-badge&logo=dart&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>

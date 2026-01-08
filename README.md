@@ -28,11 +28,17 @@
   <img src="https://img.shields.io/badge/jira-2C2C32.svg?style=for-the-badge&logo=jira&logoColor=22ABF3" />&nbsp
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/androidStudio-47C83E.svg?style=for-the-badge&logo=android-studio&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
 </div>
 
+<br>
+
+
+<div align= "center">  </div> 
+    <h3 align="center">📧 Email 📧</h3>
+<p align="center">
+  <Strong> nhmin07@gmail.com </Strong>
+</p><br>
 <br>

@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <p> 끈기와 실행력을 바탕으로 성장하는 Flutter 개발자 노혜민 입니다.</p>
+  <p> 안정성과 확장성을 고려해 더 나은 서비스를 구현하는 개발자 Flutter 개발자 노혜민 입니다.</p>
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -42,3 +42,6 @@
   <Strong> nhmin07@gmail.com </Strong>
 </p><br>
 <br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhmin08&show_icons=true&theme=dracula)
